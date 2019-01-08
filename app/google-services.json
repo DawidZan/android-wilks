@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "913280790365",
+    "firebase_url": "https://wilks-b6250.firebaseio.com",
+    "project_id": "wilks-b6250",
+    "storage_bucket": "wilks-b6250.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913280790365:android:f5701abb54dd884f",
+        "android_client_info": {
+          "package_name": "com.example.dawid.kalkulatorwilksa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "913280790365-j5bo6oupgdj0nnmmiqpa52r93ke3vfh3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dawid.kalkulatorwilksa",
+            "certificate_hash": "c5d280e86a9d7f7a4322773629e920a42991ac11"
+          }
+        },
+        {
+          "client_id": "913280790365-46ngdvp9gq4ilmbl7d3gs19dk893nijp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwHt0NwIckMihOXeJqbcT0KstPGIr9B_w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "913280790365-46ngdvp9gq4ilmbl7d3gs19dk893nijp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

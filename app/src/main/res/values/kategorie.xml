@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="categories_array">
+        <item>do 16</item>
+        <item>do 18</item>
+        <item>do 20</item>
+        <item>do 23</item>
+        <item>Senior</item>
+        <item>W1</item>
+        <item>W2</item>
+        <item>W3</item>
+    </string-array>
+</resources>
